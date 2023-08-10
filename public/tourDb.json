@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "image": "./bali.jpeg",
+        "schedule":"3 nights and 4 days",
+        "price":54000
+
+    },
+    {
+        "id":2,
+        "image": "./dubai.jpeg",
+        "schedule":"3 nights and 4 days",
+        "price":54000
+
+    },
+    {
+        "id":3,
+        "image": "./kashmir.jpeg",
+        "schedule":"2 nights and 3 days",
+        "price":34000
+
+    },
+    {
+        "id":1,
+        "image": "./syechelles.jpeg",
+        "schedule":"4 nights and 5 days",
+        "price":24000
+
+    }
+
+]

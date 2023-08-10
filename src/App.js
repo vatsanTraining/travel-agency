@@ -4,7 +4,8 @@ import MainContent from './components/MainContent';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import ShowContent from './components/ShowContent';
-import ShowContentWithHooks from './components/ShowContentWithHooks';
+import KnowEffect from './components/KnowEffect';
+import ShowReview from './components/ShowReview';
 function App() {
   const company={
     title:"Garuda Travels",
@@ -15,13 +16,15 @@ function App() {
   return (
     <div className="App">
       <Header {...company}></Header>
-      {/* <Header title={""} phonenumber={""} city={""}></Header> */}
-      {/* <Header data ={company}></Header> */}
+      {/* <Header title={""} phonenumber={""} city={""}></Header> */} 
+      {/* <Header data ={company}></Header>
 
-      <MainContent></MainContent>
-      <Footer></Footer>
-      {/* <ShowContent/> */}
-      <ShowContentWithHooks/>
+      {/* <MainContent></MainContent> */}
+      {/* <Footer></Footer>
+      <ShowContent/> */}
+      {/* <KnowEffect></KnowEffect> */}
+      {/* <ShowContent></ShowContent> */}
+      <ShowReview></ShowReview>
     </div>
   );
 }

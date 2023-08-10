@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+        "reviewer": "Ramesh",
+        "comment":"Excellent Arrangement",
+        "rating":5.0
+
+    },
+
+    {
+        "id":4,
+        "reviewer": "Suresh",
+        "comment":"Tour Guide speak english",
+        "rating":4.5
+
+    },
+    {
+        "id":3,
+        "reviewer": "Shiv",
+        "comment":"Very Good breakfast",
+        "rating":4.2
+
+    }
+
+]
