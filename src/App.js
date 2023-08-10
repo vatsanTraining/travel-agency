@@ -24,7 +24,8 @@ function App() {
       <ShowContent/> */}
       {/* <KnowEffect></KnowEffect> */}
       {/* <ShowContent></ShowContent> */}
-      <ShowReview></ShowReview>
+      {/* <ShowReview></ShowReview> */}
+      <KnowEffect name={"Shiv"}></KnowEffect>
     </div>
   );
 }
