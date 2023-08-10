@@ -24,10 +24,11 @@ const Header = ({title,city,phonenumber}) => {
     return (
     <div>
       <Image img={logo} altText={"company logo"} style={style1} ></Image>
+
   <h1>{title}</h1>
   <h3>{city}</h3>
   <h3>{phonenumber}</h3>
-        <Navigation links={links}></Navigation>
+        <Navigation links={links}/>
 
     </div>
   )

@@ -3,6 +3,8 @@ import './App.css';
 import MainContent from './components/MainContent';
 import Footer from './components/Footer';
 import Header from './components/Header';
+import ShowContent from './components/ShowContent';
+import ShowContentWithHooks from './components/ShowContentWithHooks';
 function App() {
   const company={
     title:"Garuda Travels",
@@ -18,6 +20,8 @@ function App() {
 
       <MainContent></MainContent>
       <Footer></Footer>
+      {/* <ShowContent/> */}
+      <ShowContentWithHooks/>
     </div>
   );
 }
