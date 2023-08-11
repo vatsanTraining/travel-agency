@@ -1,0 +1,16 @@
+{
+  "enquiry": [
+    {
+      "id": 1,
+      "customerName": "Ramesh",
+      "interest": "kashmir"
+    },
+    {
+      "id": "45",
+      "customerName": "Shiva",
+      "phoneNumber": "2239",
+      "interest": "Simla"
+    }
+  ]
+  
+}

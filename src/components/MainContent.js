@@ -4,7 +4,9 @@ import  mahabs from '../images/mahabs.jpeg'
 import pondy from '../images/pondy.jpeg'
 
 import  '../App.css'
+import { useParams } from 'react-router-dom'
 const MainContent = () => {
+
 
 const [starCount,setStarCount] =useState(0)
 
